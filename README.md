@@ -21,7 +21,7 @@
 
 ---
 
-## 'About Me`
+## `./about_me.sh`
 
 ```bash
 $ cat about_me.txt
@@ -36,11 +36,11 @@ $ cat about_me.txt
 
 ---
 
-## `Interests`
+## `./interests --verbose`
 
 <div align="center">
 
-| 🧠 Data Science | 🎨 UI Designing | 🔐 Cyber Security |
+| Data Science | UI Designing | Cyber Security |
 |:---:|:---:|:---:|
 | Turning raw data into actionable insight | Crafting interfaces that feel inevitable | Hunting vulnerabilities, securing systems |
 | ML pipelines, graph analytics, visualization | 3D web, motion design, design systems | Penetration testing, threat modeling |
@@ -49,44 +49,40 @@ $ cat about_me.txt
 
 ---
 
-## `Tech stack`
+## `./tech_stack --list-all`
 
-### 🔤 Languages
+### Languages
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Java](https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=FF6B35)
 ![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=A8DAFF)
 ![C++](https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=00B4D8)
-![Rust](https://img.shields.io/badge/Rust-0d0d0d?style=for-the-badge&logo=rust&logoColor=FF6B35)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
-### 🌐 Frontend
+### Frontend
 ![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-0d0d0d?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d0d0d?style=for-the-badge&logo=css3&logoColor=1572B6)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-0d0d0d?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
-![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-0d0d0d?style=for-the-badge&logo=threedotjs&logoColor=B967FF)
 
-### ⚙️ Backend & Runtime
+### Backend & Runtime
 ![Node.js](https://img.shields.io/badge/Node.js-0d0d0d?style=for-the-badge&logo=nodedotjs&logoColor=68A063)
 ![Expo](https://img.shields.io/badge/Expo-0d0d0d?style=for-the-badge&logo=expo&logoColor=ffffff)
 
-### 🗄️ Databases
+### Databases
 ![Neo4j](https://img.shields.io/badge/Neo4j-0d0d0d?style=for-the-badge&logo=neo4j&logoColor=018BFF)
 
-### 🐳 DevOps & Infrastructure
+### DevOps & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-0d0d0d?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0d0d0d?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=ffffff)
 
-### 📐 CS Fundamentals
+### CS Fundamentals
 ![DSA](https://img.shields.io/badge/DSA-0d0d0d?style=for-the-badge&logo=leetcode&logoColor=FFA116)
 ![DAA](https://img.shields.io/badge/DAA-0d0d0d?style=for-the-badge&logo=thealgorithms&logoColor=00C853)
 
 ---
 
-## 📊 `./github_stats`
+## `./github_stats`
 
 <div align="center">
 
@@ -104,7 +100,7 @@ $ cat about_me.txt
 
 ---
 
-## 🌐 `./connect --social`
+## `./connect --social`
 
 <div align="center">
 

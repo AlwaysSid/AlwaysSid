@@ -13,7 +13,7 @@
 
 > "Turning complex logic into secure, visually engaging experiences."
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=B967FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+UI+Design+%7C+Cyber+Security;React+Three+Fiber+%7C+Python+%7C+Docker;C%2B%2B+%7C+Rust+%7C+Haskell+%7C+Neo4j;Exploring+Probability%2C+OS+%26+Linux;Always+learning%2C+always+building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=B967FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+UI+Design+%7C+Cyber+Security;Python+%7C+Java+%7C+C%2B%2B+%7C+TypeScript;React+%7C+Node.js+%7C+Docker+%7C+Neo4j;Exploring+Probability%2C+OS+%26+Linux;Always+learning%2C+always+building.)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=siddharthsreekanth&color=B967FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
 
@@ -21,7 +21,7 @@
 
 ---
 
-## `About Me`
+## `./about_me.sh`
 
 ```bash
 $ cat about_me.txt
@@ -31,11 +31,12 @@ $ cat about_me.txt
   Focus    : Data Science | UI/UX Design | Cyber Security
   Status   : Always Building. Always Learning.
   Location : Coimbatore, Tamil Nadu 🇮🇳
+  Quote    : "Code is poetry written in logic."
 ```
 
 ---
 
-## `Interests`
+## `./interests --verbose`
 
 <div align="center">
 
@@ -48,7 +49,7 @@ $ cat about_me.txt
 
 ---
 
-## `Tech Stack`
+## `./tech_stack --list-all`
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=FFD43B)
@@ -81,7 +82,7 @@ $ cat about_me.txt
 
 ---
 
-## `github stats`
+## `./github_stats`
 
 <div align="center">
 
@@ -99,7 +100,7 @@ $ cat about_me.txt
 
 ---
 
-## `Connnect`
+## `./connect --social`
 
 <div align="center">
 
@@ -117,11 +118,11 @@ $ cat about_me.txt
 <div align="center">
 
 ```
-                                         ╔═════════════════════════════════════════════════════════╗
-                                         ║  "In an ocean of raw data,                              ║
-                                         ║   I build the ships and plot the map."                  ║
-                                         ║                                                         ║
-                                         ╚═════════════════════════════════════════════════════════╝
+╔═════════════════════════════════════════════════════════╗
+║  "In an ocean of raw data,                              ║
+║   I build the ships and plot the map."                  ║
+║                                        — Siddharth      ║
+╚═════════════════════════════════════════════════════════╝
 ```
 
 ⚡ *Built with curiosity. Deployed with purpose.* ⚡

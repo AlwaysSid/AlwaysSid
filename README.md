@@ -102,8 +102,8 @@ $ cat about_me.txt
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=B967FF)](www.linkedin.com/in/siddharthsreekanth0838)
-[![Twitter](https://img.shields.io/badge/Twitter-0a0a0a?style=for-the-badge&logo=x&logoColor=B967FF)](https:)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=B967FF)](https://www.linkedin.com/in/siddharthsreekanth0838)
+[![Twitter](https://img.shields.io/badge/Twitter-0a0a0a?style=for-the-badge&logo=x&logoColor=B967FF)](https://twitter.com/YOUR_TWITTER_HANDLE)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=vercel&logoColor=B967FF)](https://YOUR_PORTFOLIO_URL)
 [![Email](https://img.shields.io/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=B967FF)](mailto:siddharthsreekanth2006@gmail.com)
 

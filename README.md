@@ -56,7 +56,6 @@ $ cat about_me.txt
 ![C](https://img.shields.io/badge/C-0d0d0d?style=for-the-badge&logo=c&logoColor=A8DAFF)
 ![C++](https://img.shields.io/badge/C++-0d0d0d?style=for-the-badge&logo=cplusplus&logoColor=00B4D8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-0d0d0d?style=for-the-badge&logo=typescript&logoColor=3178C6)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-0d0d0d?style=for-the-badge&logo=react&logoColor=61DAFB)

@@ -21,7 +21,7 @@
 
 ---
 
-## ⚡ `./about_me.sh`
+## 'About Me`
 
 ```bash
 $ cat about_me.txt
@@ -36,7 +36,7 @@ $ cat about_me.txt
 
 ---
 
-## 🎯 `./interests --verbose`
+## `Interests`
 
 <div align="center">
 
@@ -49,7 +49,7 @@ $ cat about_me.txt
 
 ---
 
-## 🛠️ `./tech_stack --list-all`
+## `Tech stack`
 
 ### 🔤 Languages
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=FFD43B)

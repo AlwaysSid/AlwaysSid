@@ -1,38 +1,40 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=%3E_sudo+whoami;%3E_Siddharth+Sreekanth;%3E_CSE+Undergrad+%40+Amrita" alt="Typing SVG" />
-</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/System_Status-Online-success?style=for-the-badge&color=0d1117&logo=gnome-terminal&logoColor=00FFFF" />
-</p>
+ ██████╗ ██╗██████╗ ██████╗ ██╗  ██╗ █████╗ ██████╗ ████████╗██╗  ██╗
+██╔════╝ ██║██╔══██╗██╔══██╗██║  ██║██╔══██╗██╔══██╗╚══██╔══╝██║  ██║
+╚█████╗  ██║██║  ██║██║  ██║███████║███████║██████╔╝   ██║   ███████║
+ ╚═══██╗ ██║██║  ██║██║  ██║██╔══██║██╔══██║██╔══██╗   ██║   ██╔══██║
+██████╔╝ ██║██████╔╝██████╔╝██║  ██║██║  ██║██║  ██║   ██║   ██║  ██║
+╚═════╝  ╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+
+
+# Siddharth Sreekanth
+### CSE Student · Data Science · UI Design · Cyber Security
+
+> "Turning complex logic into secure, visually engaging experiences."
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=B967FF&center=true&vCenter=true&width=600&lines=Data+Science+%7C+UI+Design+%7C+Cyber+Security;React+Three+Fiber+%7C+Python+%7C+Docker;C%2B%2B+%7C+Rust+%7C+Haskell+%7C+Neo4j;Exploring+Probability%2C+OS+%26+Linux;Always+learning%2C+always+building.)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### `~/config/about_user.json`
+## 🧠 About Me
 
-```json
-{
-  "user": "Siddharth Sreekanth",
-  "education": "B.Tech CSE @ Amrita Vishwa Vidyapeetham, Coimbatore",
-  "bio": "Passionate about building secure, data-driven, and visually engaging applications.",
-  "domains": [
-    "Data Science",
-    "UI/UX Design",
-    "Cyber Security"
-  ],
-  "fundamentals": [
-    "Data Structures & Algorithms",
-    "Design & Analysis of Algorithms",
-    "Operating Systems",
-    "Probability & Logic"
-  ],
-  "currently_exploring": [
-    "Advanced Linux Environments",
-    "Haskell Functional Programming",
-    "Digital Heritage Integrations (Ramayana)"
-  ],
-  "contact": {
-    "email": "[Your_Email_Here]",
-    "linkedin": "[Your_LinkedIn_URL_Here]"
-  }
-}
+```python
+class SiddharthSreekanth:
+    def __init__(self):
+        self.name        = "Siddharth Sreekanth"
+        self.university  = "Amrita Vishwa Vidyapeetham, Coimbatore"
+        self.degree      = "B.Tech Computer Science & Engineering"
+        self.interests   = ["Data Science", "UI/UX Design", "Cyber Security", "Digital Heritage"]
+        self.exploring   = ["Haskell", "Advanced Linux Systems", "Operating Systems", "Probability"]
+        self.latest_work = "Interactive projects blending tech with the Ramayana"
+        self.quote       = "Design intuitively. Code robustly. Secure fiercely."
+
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something awesome together 🚀")
+
+if __name__ == "__main__":
+    me = SiddharthSreekanth()
+    me.say_hi()

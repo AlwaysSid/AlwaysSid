@@ -31,7 +31,6 @@ $ cat about_me.txt
   Focus    : Data Science | UI/UX Design | Cyber Security
   Status   : Always Building. Always Learning.
   Location : Coimbatore, Tamil Nadu 🇮🇳
-  Quote    : "Code is poetry written in logic."
 ```
 
 ---

@@ -21,7 +21,7 @@
 
 ---
 
-## `./about_me.sh`
+## `About Me`
 
 ```bash
 $ cat about_me.txt
@@ -36,7 +36,7 @@ $ cat about_me.txt
 
 ---
 
-## `./interests --verbose`
+## `Interests`
 
 <div align="center">
 
@@ -49,7 +49,7 @@ $ cat about_me.txt
 
 ---
 
-## `./tech_stack --list-all`
+## `Tech Stack`
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=FFD43B)
@@ -82,7 +82,7 @@ $ cat about_me.txt
 
 ---
 
-## `./github_stats`
+## `github stats`
 
 <div align="center">
 
@@ -100,7 +100,7 @@ $ cat about_me.txt
 
 ---
 
-## `./connect --social`
+## `Connnect`
 
 <div align="center">
 
@@ -118,11 +118,11 @@ $ cat about_me.txt
 <div align="center">
 
 ```
-╔═════════════════════════════════════════════════════════╗
-║  "In an ocean of raw data,                              ║
-║   I build the ships and plot the map."                  ║
-║                                        — Siddharth      ║
-╚═════════════════════════════════════════════════════════╝
+                                         ╔═════════════════════════════════════════════════════════╗
+                                         ║  "In an ocean of raw data,                              ║
+                                         ║   I build the ships and plot the map."                  ║
+                                         ║                                                         ║
+                                         ╚═════════════════════════════════════════════════════════╝
 ```
 
 ⚡ *Built with curiosity. Deployed with purpose.* ⚡

@@ -48,7 +48,7 @@ $ cat about_me.txt
 
 ---
 
-## `./tech_stack --list-all`
+## `Tech Stack`
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=FFD43B)

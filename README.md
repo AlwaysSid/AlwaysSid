@@ -80,23 +80,6 @@ $ cat about_me.txt
 
 ---
 
-## `github stats`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&bg_color=0a0a0a&title_color=B967FF&icon_color=B967FF&text_color=ffffff&border_color=B967FF&hide_border=false&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&bg_color=0a0a0a&title_color=B967FF&text_color=ffffff&border_color=B967FF"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&background=0a0a0a&ring=B967FF&fire=ff6edb&currStreakLabel=B967FF&border=B967FF&sideLabels=ffffff&dates=888888)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ## `Connect`
 
